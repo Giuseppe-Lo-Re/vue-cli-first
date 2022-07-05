@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <MyTitle msg="La mia prima app con Vue CLI!"/>
+    <MyTitle/>
     <MyHero/>
   </div>
 </template>
@@ -15,7 +15,6 @@ export default {
   components: {
     MyTitle,
     MyHero
-
   }
 }
 </script>

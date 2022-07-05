@@ -7,7 +7,7 @@
 
 <script>
 export default {
-  name: 'TitleTitle',
+  name: 'MyTitle',
   props: {
     msg: String
   }
